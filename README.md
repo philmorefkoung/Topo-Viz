@@ -8,5 +8,6 @@
   <img src="PhMN- et Images/PhMN-et_threshold_8.png" alt="Threshold 8" width="150" />
   <img src="PhMN- et Images/PhMN-et_threshold_12.png" alt="Threshold 12" width="150" />
   <img src="PhMN- et Images/PhMN-et_threshold_16.png" alt="Threshold 16" width="150" /><!-- Add more images as needed -->
-</p> <br /> 
-Individual Images at Thresholds 0, 4, 8, 12, 16
+</p> 
+Individual Images at Thresholds 0, 4, 8, 12, 16 from the [Ph Negative Myeloproliferative Neoplasm dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10458278) . <br /> 
+
